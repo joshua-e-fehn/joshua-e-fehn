@@ -9,8 +9,7 @@ MPhil student in Advanced Computer Science at the **University of Cambridge**, a
 | [**Bundestracker**](https://github.com/joshua-e-fehn/Bundestracker) · [live](https://bundestracker.de) | A "contributions graph" for members of the German Bundestag, built from official parliamentary data | Python, Next.js, Convex |
 | [**TradeTales**](https://github.com/joshua-e-fehn/starthack_st_gallen_2026) · [live](https://munichminds.vercel.app) | **1st place, PostFinance Challenge, START Hack St. Gallen 2026**: a multiplayer investing game with Monte Carlo what-ifs and an AI tutor | Next.js, Convex, Gemini |
 | [**Fiscalis**](https://github.com/joshua-e-fehn/Fiscalis) · [live](https://fiscalis.joshua-fehn.de) | Investment tracker that aggregates bank, brokerage, and crypto accounts | Next.js, Convex, Plaid, SnapTrade |
-| **camsocs** · [live](https://camsocs.vercel.app) | Directory and events calendar of ~800 Cambridge societies, kept current by an automated Python + LLM pipeline | Python, Next.js, Convex |
-| [**Orion hackathon**](https://github.com/joshua-e-fehn/orion) | Recruiting hackathon in San Francisco: prototype IMM target-motion predictor for counter-drone tracking | Python, ROS |
+| [**camsocs**](https://github.com/joshua-e-fehn/camsocs) · [live](https://camsocs.vercel.app) | Directory and events calendar of ~800 Cambridge societies, kept current by an automated Python + LLM pipeline | Python, Next.js, Convex |
 
 #### Research
 - **Ethical Conduct Index for Automated Driving** (B.Sc. thesis, TUM): a pre-registered composite score for automated-vehicle behaviour, tested in a 134-participant study on CARLA-rendered clips.
